@@ -4,7 +4,7 @@ from kivy.uix.label import Label
 from kivy.lang import Builder 
 from kivy.uix.screenmanager import ScreenManager, Screen
   
-# Replace this with your 
+# Replace this with
 # current version
 kivy.require('1.11.1')  
 Builder.load_file('design.kv')
